@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Daminic\.android\build-cache\5ac29d11977ab5584d43638c10616892afd16d8e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Daminic\.android\build-cache\ae8b65a7fc64ebbb83ce62990050f3d6bdc26501\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Daminic\.android\build-cache\c32c67c3b8f9ca1595b7a475e9f9b6fa4682aa4b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Daminic\.android\build-cache\578cbadd734fb7b8f503409ba27ad517ede76b00\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Daminic\.android\build-cache\64c13f0bb1774145ddf397d8dfa711473431f7e4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Daminic\.android\build-cache\c003628cfe59098a4ca9aa64396930ba9ef1d7e6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Daminic\.android\build-cache\09b58b12de5acbf863c6eb6cc22f956c86ee7afa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Daminic\.android\build-cache\1a6eed1cd236794f534603a01fcaa1d53de67125\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Daminic\.android\build-cache\a09ddb4ba901afc08cbab56b67103e79696949f0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Daminic\.android\build-cache\721c3ddfd432984cc47fcc083690820073dd8cbb\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.firstapp.MainActivity
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] C:\Users\Daminic\.android\build-cache\5ac29d11977ab5584d43638c10616892afd16d8e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Daminic\.android\build-cache\ae8b65a7fc64ebbb83ce62990050f3d6bdc26501\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Daminic\.android\build-cache\c32c67c3b8f9ca1595b7a475e9f9b6fa4682aa4b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Daminic\.android\build-cache\578cbadd734fb7b8f503409ba27ad517ede76b00\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Daminic\.android\build-cache\64c13f0bb1774145ddf397d8dfa711473431f7e4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Daminic\.android\build-cache\c003628cfe59098a4ca9aa64396930ba9ef1d7e6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Daminic\.android\build-cache\09b58b12de5acbf863c6eb6cc22f956c86ee7afa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Daminic\.android\build-cache\1a6eed1cd236794f534603a01fcaa1d53de67125\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Daminic\.android\build-cache\410218a2587d2fca1108e32a01419b4df0705b2b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Daminic\.android\build-cache\a09ddb4ba901afc08cbab56b67103e79696949f0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Daminic\.android\build-cache\721c3ddfd432984cc47fcc083690820073dd8cbb\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Daminic\.android\build-cache\ae8b65a7fc64ebbb83ce62990050f3d6bdc26501\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Daminic\Desktop\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch02\02_02\HelloWorld\app\src\main\AndroidManifest.xml

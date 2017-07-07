@@ -1,0 +1,7 @@
+#Fri Jul 07 16:46:50 SGT 2017
+base.0=C\:\\Users\\Daminic\\Desktop\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch02\\02_02\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7ab09b38ead3dc1fd1f59e1208d155f4756c5989
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Daminic\\Desktop\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch02\\02_02\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de7e51b81fa00beb0cc401b3358557105d037e32\\classes.dex
+base.1=C\:\\Users\\Daminic\\Desktop\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch02\\02_02\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_de7e51b81fa00beb0cc401b3358557105d037e32
+file.0=C\:\\Users\\Daminic\\Desktop\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch02\\02_02\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7ab09b38ead3dc1fd1f59e1208d155f4756c5989\\classes.dex

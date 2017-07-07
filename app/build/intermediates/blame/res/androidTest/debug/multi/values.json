@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Daminic\\Desktop\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch02\\02_02\\HelloWorld\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Daminic\\.android\\build-cache\\c09767b8ad82c212cac1cef349d713894abf3562\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
